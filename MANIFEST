@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README.md
+lib/Merchanta/SMS/Gorod.pm
+t/t01.t
