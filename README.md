@@ -1,1 +1,1 @@
-# smsgorod.ru http api
+# smsgorod.ru http api / perl
