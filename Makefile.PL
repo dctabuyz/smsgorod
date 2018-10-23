@@ -6,6 +6,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     'NAME'              => 'Merchanta::SMS::Gorod',
+    'DISTNAME'          => 'Merchanta-SMS-Gorod',
     'LICENSE'           => 'perl',
     'AUTHOR'            => 'dctabuyz@ya.ru',
     'VERSION_FROM'      => 'lib/Merchanta/SMS/Gorod.pm',
